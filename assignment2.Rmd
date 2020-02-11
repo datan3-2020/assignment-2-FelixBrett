@@ -167,5 +167,28 @@ Hh8 %>%
   summarise(mean(h_nkids_dv, na.rm = TRUE),
             median(h_nkids_dv, na.rm = TRUE))
 
+# interpretation of results:
+# this data shows that Pakistani families have on average
+# the most children out of our sample of Indian, White 
+# British and Pakistani families. Both in terms of the mean
+# and the median 
+# One thing that may have affected my findings is that
+# the sample is too small to produce an effective analysis
+# there's 18844 White British families and only 1603
+# Indian and 2095 Pakistani families. So perhaps the
+# dataset wasn't large enough to produce results reflective
+# of the whole British population.
+# However it is also possible that this dataset does reflect
+# broad trends in British birthrates. Perhaps Pakistani
+# families are often more recent immigrants to the UK
+# as other research suggests that first generation immigrants
+# are likely to have much larger families than second or 
+# third generation immigrants. 
+# (http://www.lse.ac.uk/News/Latest-news-from-LSE/2018/08-Aug# -2018/Many-children-of-immigrants-to-the-UK-have-smaller-fa# milies-than-their-parents)
+# Hence the Indian families may be more likely to have 
+# lived in the UK for more than one generation and thus
+# be more like White British people in the size of their
+# families.
+
 ```
 
